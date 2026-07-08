@@ -1,4 +1,4 @@
-![image Alt]([https://github.com/gigative/GigativeEromeDownloader/blob/main/Screenshot%202026-07-08%20035501.png?raw=true](https://github.com/gigative/GigativeEromeDownloader/blob/main/Logo_transparent.png?raw=true)])
+![image Alt](https://github.com/gigative/GigativeEromeDownloader/blob/main/Logo_transparent.png?raw=true)
 
 
 ![image Alt](https://github.com/gigative/GigativeEromeDownloader/blob/main/Screenshot%202026-07-08%20035501.png?raw=true)
