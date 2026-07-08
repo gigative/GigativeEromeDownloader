@@ -1,7 +1,7 @@
 ![image Alt]([https://github.com/gigative/GigativeEromeDownloader/blob/main/Screenshot%202026-07-08%20035501.png?raw=true)
 ![image Alt](https://github.com/gigative/GigativeEromeDownloader/blob/main/Screenshot%202026-07-08%20035527.png?raw=true)
 ![image Alt](https://github.com/gigative/GigativeEromeDownloader/blob/main/Screenshot%202026-07-08%20035549.png?raw=true)
-![image Alt]((https://github.com/gigative/GigativeEromeDownloader/blob/main/Screenshot%202026-07-08%20035608.png?raw=true)
+![image Alt](https://github.com/gigative/GigativeEromeDownloader/blob/main/Screenshot%202026-07-08%20035608.png?raw=true)
 ![image Alt](https://github.com/gigative/GigativeEromeDownloader/blob/main/Screenshot%202026-07-08%20035631.png?raw=true)
 
 1) Analyze Engine
