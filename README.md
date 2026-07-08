@@ -173,7 +173,7 @@ C:\Program Files (x86)\Gigative\Gigative Erome Downloader
 
 🛠 Build from source
 
-bashnpm install
+npm install
 npm start          # run in dev
 npm run build      # build Windows installer + portable
 
