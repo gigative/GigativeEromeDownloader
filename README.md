@@ -15,7 +15,9 @@ github.com/gigative/GigativeEromeDownloader
 
 </div>
 
-✨ Features | 
+✨ Features 
+
+
 
 🔍 Smart Analyze Engine 
 
@@ -25,6 +27,9 @@ A hidden scraper runs inside a real, invisible Chromium window and reads the liv
 Auto-scrolls to trigger lazy loading and auto-dismisses consent / age-gate overlays.
 A second regex layer over the raw HTML catches URLs that exist only as plain strings, merged and deduplicated with the DOM results.
 Smart "More posts" exclusion — the boundary is found structurally in the DOM, so suggested-album media never leaks into the current album.
+
+
+
 
 
 
@@ -42,6 +47,9 @@ Accurate progress bar (computed over total files, not albums) with live done / f
 
 
 
+
+
+
 🗂 Album Management 
 
 
@@ -55,10 +63,16 @@ Expand arrow ▸/▾ on each album opens a panel listing every file inside it; f
 
 
 
+
+
+
 📋 Queue
 
 Add selected albums to an independent, deduplicated queue with a live counter badge.
 Remove single items, clear all, or download the whole queue in one click.
+
+
+
 
 
 📜 History 
@@ -66,6 +80,8 @@ Remove single items, clear all, or download the whole queue in one click.
 A log of every download session: title, file count, size, timestamp, and outcome.
 Stats panel (sessions · files · total size · successes) and an instant compact search.
 Open the session folder, remove a single entry from the app, or clear all.
+
+
 
 
 📁 Files Library 
@@ -76,6 +92,7 @@ Instant search by file name or album.
 🗜 Compress to ZIP — zips a single file next to itself; the original stays intact.
 ✕ Remove from App — removes only the app entry; the file stays on your disk.
 Full right-click menu, with re-downloads updating entries instead of duplicating them.
+
 
 
 
@@ -96,10 +113,14 @@ A hand-written streaming ZIP engine never loads a whole file into memory (256 KB
 Optional delete originals after zipping with strict safety rails: nothing is removed until the ZIP is verified, and only that session's album folders are ever touched.
 
 
+
+
 🔒 App Lock 
 
 Optional PIN lock shown on a full-screen overlay every time the app opens.
 Disabling requires the current PIN; only the PIN's SHA-256 hash is stored — never the PIN itself.
+
+
 
 
 
@@ -109,19 +130,24 @@ Checks GitHub Releases in the background, downloads updates automatically, and i
 Live status in the About tab and a one-click restart & install when an update is ready.
 
 
-📋 Clipboard Auto-Detect 
 
+
+
+📋 Clipboard Auto-Detect 
 
 Detects site links in the clipboard on launch and on window focus, offering one-click analysis.
 
 
-🎨 Interface & Customization 
 
+
+
+🎨 Interface & Customization 
 
 15 full themes (Light, Dark, Midnight, Dark Black, Carbon, Metal, Wood, Pink, Purple, Blue, Forest, Rose Gold, Red, Green, Teal) with live mini-previews.
 9 languages: English, Arabic (full RTL), French, German, Spanish, Chinese, Japanese, Italian, Russian.
 Frameless custom window with drag, custom controls, and a status bar.
 Native folder picker, optional proxy (HTTP / SOCKS5 / SOCKS4), and helpful empty states throughout.
+
 
 
 
@@ -133,6 +159,9 @@ Windows 10 / 11 (x64)
 No dependencies for end users — the installer bundles everything.
 
 
+
+
+
 📦 Installation
 
 Download the latest installer or portable build from the Releases page.
@@ -140,6 +169,7 @@ Download the latest installer or portable build from the Releases page.
 Default install location:
 
 C:\Program Files (x86)\Gigative\Gigative Erome Downloader
+
 
 🛠 Build from source
 
